@@ -1,0 +1,12 @@
+{
+  "name": "InstagramCopy",
+  "displayName": "InstagramCopy",
+  "expo": {
+    "name": "InstagramCopy",
+    "slug": "InstagramCopy",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
